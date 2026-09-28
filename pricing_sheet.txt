@@ -1,0 +1,31 @@
+Product Pricing Sheet (Sample / Fictional)
+
+Tiers are billed per seat, per month, billed annually.
+
+Starter tier: $12 per seat per month.
+Includes up to 5 users, 10GB storage, community support, basic reporting.
+
+Pro tier: $29 per seat per month.
+Includes unlimited users, 200GB storage, priority email support,
+advanced reporting, and single sign-on (SSO).
+
+Enterprise tier: custom pricing, contact sales.
+Includes everything in Pro plus a dedicated account manager, custom SLAs,
+on-premise deployment option, and audit logging.
+
+Add-ons
+Extra storage: $5 per 100GB per month, available on Starter and Pro.
+Priority phone support: $99 per month flat fee, available on Pro and
+Enterprise only.
+
+Discounts
+Annual prepay: 15% discount versus monthly billing.
+Non-profit organizations: 20% discount on Pro tier, verified via
+application.
+Educational institutions: Starter tier is free for verified students and
+teachers.
+
+Sales tax
+Sales tax is calculated based on the billing address and is not included in
+the prices listed above. A typical regional rate used for estimates in this
+document is 8%.

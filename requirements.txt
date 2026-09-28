@@ -1,0 +1,10 @@
+anthropic>=0.40.0
+streamlit>=1.38.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pypdf>=4.2.0
+python-dotenv>=1.0.1
+
+# Optional (only needed if USE_EMBEDDINGS=true in .env):
+# sentence-transformers>=3.0.0
+# faiss-cpu>=1.8.0
